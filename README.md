@@ -1,7 +1,7 @@
 # Restaurant Map App
-# Project 3 - *Restaurant Map*
+# Final Project - *Restaurant Map*
 
-**Restaurant app** is an android app. For example: If a user wants to organize a party, the user, generally opens the Yelp App and checks all the places that are favourable for him/her to plan for lunch, dinner or Breakfast. With the "Restaurant Map" app, the user gets the nearby restaurants,based on the current location.
+**Restaurant Map app** is an android app. For example: If a user wants to organize a party, the user, generally opens the Yelp App and checks all the places that are favourable for him/her to plan for lunch, dinner or Breakfast. With the "Restaurant Map" app, the user gets the nearby restaurants,based on the current location.
 This app uses the Yelp API to retrieve information on the Ratings and Location, the Name of the Place and the type of Food i.e, if the Food is Mexican, or a Pizza place, or Fast Food or Wine Bars, or if Korean food is being served at the Restaurant.
 This android app uses device's location information to fetch nearby restaurants via Yelp API and get map information of restaurants.
 you don't have to ask anyone anything or worry about what to pick. Restaurant Map searches for places to eat near you and picks one at random.
