@@ -6,7 +6,8 @@ This app uses the Yelp API to retrieve information on the Ratings and Location, 
 This android app uses device's location information to fetch nearby restaurants via Yelp API and get map information of restaurants.
 you don't have to ask anyone anything or worry about what to pick. Restaurant Map searches for places to eat near you and picks one at random.
 
-If you don't like the place it finds, swipe it to the left to get a new one. If you find a restaurant, you like, Swipe it to the right to open it in Yelp and check out more info. If you find a place that you're thinking about, and not sure about it, then, you can Add it to your saved list by clicking on the bookmark icon to access it later.
+If you don't like the place it finds, swipe it to the left to get a new one.
+If you find a restaurant, you like, Swipe it to the right to open it in Yelp and check out more info. If you find a place that you're thinking about, and not sure about it, then, you can Add it to your saved list by clicking on the bookmark icon to access it later.
 It uses the [Yelp API](https://www.yelp.com/developers) to query for restaurants and uses [Google Play Services location API](https://developers.google.com/android/reference/com/google/android/gms/location/package-summary). It also uses [Google Maps Android API](https://developers.google.com/maps/documentation/android-api/) for displaying the location of a restaurant.
 
 Submitted by : Swati Singh
@@ -45,7 +46,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] User can **click a select the Place within the app ** and will be redirected to the Map view, below the restaurant name, with its location and the directions.
-* [x] Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from, it is also saved for use in offline mode.
+* [x] Persisted in SQLite, items are refreshed on every application launch. While "live data" is displayed when app can get it from, it is also saved for use in offline mode.
 * [x] User can tap a media to **open a detailed media view in browser**
 * [x] User can Login using Parse.
 * [x] Improve style of the restaurants in the list [using a custom adapter]
