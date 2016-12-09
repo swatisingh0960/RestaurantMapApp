@@ -73,7 +73,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/swatisingh0960/RestaurantMapApp/blob/master/ezgif.com-ea85816933.gif'[Video Walkthrough} />
-
+Video Walkthrough - http://imgur.com/gT0Vrq6
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
